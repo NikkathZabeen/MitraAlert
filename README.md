@@ -56,10 +56,6 @@ MiTRA Alert is a web-based platform designed to provide real-time disaster alert
 - Integration with Government Agencies  
 - Mobile App Development  
 
-## 📧 Contact  
-👤 **Nikkath Zabeen Shaik**  
-📩 Email: [nikkath23bcs60@iiitkottayam.ac.in](mailto:nikkath23bcs60@iiitkottayam.ac.in)  
-🌐 Portfolio: [Your Portfolio Link]  
 
 ---
 **🌍 Stay Safe, Stay Informed!** 🚀  
